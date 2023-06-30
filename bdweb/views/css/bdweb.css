@@ -1,0 +1,23 @@
+#bdweb-module {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#bdweb-module .bdweb-logo {
+    flex: 0 0 150px;
+}
+
+#bdweb-module .bdweb-logo img {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+	border-radius: 10px;
+}
+
+#bdweb-module .bdweb-text {
+    flex: 1;
+}
